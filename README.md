@@ -1,4 +1,12 @@
-## Hi there 👋
+## Olá, me chamo Leonardo Nunes.
+Formado em Web Desing e Técnico em eletroeletrônica.
+
+Atualmente sou estudante em desenvolvimento de sistemas.
+
+Você me encontra aqui:
+
+  Telegram: www.t.me/Mutenichi
+  Linkedin: www.linkedin.com/in/leonardo-n-de-souza-8636261a2
 
 <!--
 **Mutenichi99/Mutenichi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
