@@ -5,8 +5,10 @@ Atualmente sou estudante em desenvolvimento de sistemas.
 
 Você me encontra aqui:
 
-  Telegram: www.t.me/Mutenichi
+  Telegram: www.t.me/
   Linkedin: www.linkedin.com/in/leonardo-n-de-souza-8636261a2
+
+  Email: leo.nuness1999@gmail.com
 
 <!--
 **Mutenichi99/Mutenichi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
