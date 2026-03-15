@@ -1,12 +1,28 @@
 ## Olá, me chamo Leonardo Nunes.
-Formado em Web Desing e Técnico em eletroeletrônica.
+
+
+  Formado em Web Design e Técnico em eletroeletrônica.
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width= "30" height= "30"/> 
+  
+          
+
+
+          
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width= "40" height= "40"/>
+          
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width= "40" height= "40"/>
+                    
 
 Atualmente sou estudante em desenvolvimento de sistemas.
 
 Você me encontra aqui:
 
   Telegram: www.t.me/
-  Linkedin: www.linkedin.com/in/leonardo-n-de-souza-8636261a2
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" wiidht="20" height="20"/> Linkedin: www.linkedin.com/in/leonardo-n-de-souza-8636261a2
 
   Email: leo.nuness1999@gmail.com
 
