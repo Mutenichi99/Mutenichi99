@@ -1,5 +1,5 @@
-## Olá, me chamo Leonardo Nunes.
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width= "40" height= "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width= "30" height= "30" /> Olá, me chamo Leonardo Nunes.
+ 
 
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width= "25" height= "25"/>  Formado em Web Design e Técnico em eletroeletrônica. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width= "25" height= "25"/>
