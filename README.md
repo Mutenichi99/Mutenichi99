@@ -13,4 +13,4 @@ Você me encontra aqui:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" wiidht="20" height="20"/> Linkedin: www.linkedin.com/in/leonardo-n-de-souza-8636261a2
 
   Email: leo.nuness1999@gmail.com
-<img src="assets/icons/github.svg" width="50"/>
+<img src="assets/icon/telegram.svg" width="40"/>
